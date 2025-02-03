@@ -8,7 +8,7 @@ body {
     color: #fff;
     overflow-x: hidden;
     transition: all 0.3s ease;
-    background-image: url('WWW.jpeg'); 
+    background-image: url("WWW.jpeg"); 
     background-size: cover; 
     background-repeat: no-repeat; 
     background-attachment: fixed; 
